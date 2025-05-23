@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Optimizing MERN app performance and learning DevOps best practices.
 
 - 📫 Y'all can reach me on my social media here:
-  [![My Skills](https://skillicons.dev/icons?i=instagram)](www.instagram.com/razhaaf) [![My Skills](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/firazfulvianhafiz/)
+
+[![My Skills](https://skillicons.dev/icons?i=instagram)](www.instagram.com/razhaaf) [![My Skills](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/firazfulvianhafiz/)
 
 ## Technologies i use
 
