@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 Y'all can reach me on my social media here:
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](www.instagram.com/razhaaf) [![My Skills](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/firazfulvianhafiz/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/razhaaf/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/firazfulvianhafiz/)
 
 ## Technologies i use
 
